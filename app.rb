@@ -7,6 +7,6 @@ get '/' do
 
 end
 
-  get '/' do
+get '/' do
     "Hello, World!"
-  end
+end
