@@ -1,5 +1,4 @@
 class App < Sinatra::Base
-<<<<<<< HEAD
 
   # Define your GET '/' route below and respond with "Hello, World!"
   get '/' do
@@ -7,9 +6,7 @@ class App < Sinatra::Base
   end
 
 end
-=======
   get '/' do
     "Hello, World!"
   end
 end
->>>>>>> solution with contributing file and .learn tags
